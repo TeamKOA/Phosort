@@ -1,0 +1,10 @@
+F:\Coding\Phosort\Phosort\Phosort\bin\Debug\Phosort.exe.config
+F:\Coding\Phosort\Phosort\Phosort\bin\Debug\Phosort.exe
+F:\Coding\Phosort\Phosort\Phosort\bin\Debug\Phosort.pdb
+F:\Coding\Phosort\Phosort\Phosort\obj\Debug\Phosort.csprojAssemblyReference.cache
+F:\Coding\Phosort\Phosort\Phosort\obj\Debug\Phosort.Form1.resources
+F:\Coding\Phosort\Phosort\Phosort\obj\Debug\Phosort.Properties.Resources.resources
+F:\Coding\Phosort\Phosort\Phosort\obj\Debug\Phosort.csproj.GenerateResource.cache
+F:\Coding\Phosort\Phosort\Phosort\obj\Debug\Phosort.csproj.CoreCompileInputs.cache
+F:\Coding\Phosort\Phosort\Phosort\obj\Debug\Phosort.exe
+F:\Coding\Phosort\Phosort\Phosort\obj\Debug\Phosort.pdb
